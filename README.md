@@ -1,2 +1,2 @@
 # Admin-Dashboard
-it's an Admin dashboard
+it's a simple Admin page beautified with CSS and google fonts 
